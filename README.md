@@ -1,2 +1,2 @@
 # TARS
-Time and Angular Resolved Scattering processor
+Time-resolved Analysis and Reconstruction Suite
